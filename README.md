@@ -1,4 +1,4 @@
-# wwdc2018
+# WWDC2018
 The project is the playground I've submitted for the WWDC 2018 scholarship application.
 Its main objective is to demistify the AI by showing how a neural network works with a tiny model.
 
